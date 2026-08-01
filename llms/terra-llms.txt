@@ -1,0 +1,26 @@
+# Terra Security
+
+> Terra Security operates an agentic-AI-powered continuous offensive security (penetration testing) platform. A swarm of AI agents continuously validates every attack surface — web applications, external and internal networks, and AI systems (LLMs, copilots, MCPs, agents) — with a human-on-the-loop workflow. Founded in 2024 (Tel Aviv), backed by Felicis. Terra publishes no public developer API; this file is generated from the API Evangelist catalog for discovery.
+
+## Company
+- [Website](https://terra.security): Agentic Offensive Security Platform.
+- [About](https://terra.security/about): Company background and team.
+- [Careers](https://terra.security/careers): Open roles.
+- [Events](https://terra.security/events): Where to meet Terra.
+- [Contact](https://terra.security/contact): Talk to an expert / book a demo.
+- [Blog](https://terra.security/blog): Threat research, insights, and announcements.
+- [Customer App](https://app.terra.security): Customer login portal.
+
+## Platform
+- Terra Platform — one platform validating web apps, external network, internal network, and AI red teaming.
+- TORCH — Terra Offensive Research Collaboration Hub, powering agent-human collaboration.
+
+## Legal
+- [Terms](https://terra.security/terms)
+- [Privacy Policy](https://terra.security/privacy-policy)
+
+## Code
+- [GitHub Organization](https://github.com/terra-security)
+
+## Notes
+- No public REST/GraphQL/AsyncAPI, OpenAPI, SDKs, MCP server, or OAuth surface was found as of 2026-07-21.
