@@ -1,0 +1,29 @@
+# Front Door AI Index — terra — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: terra
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: terra.security
+  final_host: www.terra.security
+  ownership: own
+  owner: terra
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 26
+  host_score: 26
+  density: 32.91
+  words: 790
+  tiers:
+    agentic: 12
+    core: 14
+    model: 0
+  ambiguous: 9
+  top_terms:
+    AI: 13
+    agentic: 10
+    agent: 9
+    copilot: 2
+    LLMs: 1
